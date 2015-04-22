@@ -530,7 +530,7 @@
 **الكلمات المفتاحيّة:** جهاز جزئيّ مُتحرّك، تحضير الأسنان، التهاب الفم، التثبيت، التكافؤ، خطوط التّحديد، التعويضات المؤقّتة
 
 ##Abstract
-The fabrication of a removable partial denture is a procedure comprised of multiple steps that should be undertaken in a specific order so that the end result is a functional, asthetically-pleasing denture. Pre-fabrication steps involve rehabilitation of the mouth cavity using all required means, including conventional, surgical and orthodontic treatments.
+The fabrication of a removable partial denture is a procedure comprised of multiple steps that should be undertaken in a specific order so that the end result is a functional, aesthetically-pleasing denture. Pre-fabrication steps involve rehabilitation of the mouth cavity using all required means, including conventional, surgical and orthodontic treatments.
 
 **Keywords:** RPD, tooth preparation, stomatitis, retention, reciprocation, survey lines, interim prothesis
 
